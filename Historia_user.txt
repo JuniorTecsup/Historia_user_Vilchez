@@ -1,0 +1,4 @@
+Como usuario yo deberia poder buscar un tipo de enfermedad a fin de encontrar una medicina que me ayude.
+
+Como usuario yo deberia poder calificar la efectividad de la medicina a fin de recomendarla a otras personas.
+
